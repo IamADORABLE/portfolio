@@ -133,7 +133,7 @@ const Contact = () => {
                 <FaMapMarkerAlt size={24} color="#8338ec" />
                 <div>
                   <p style={{ fontSize: '0.9rem', opacity: '0.7', marginBottom: '5px' }}>Location</p>
-                  <p>Lagos State, Nigeria</p>
+                  <p>IkorodLagos State, Nigeria</p>
                 </div>
               </div>
             </div>
