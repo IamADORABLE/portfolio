@@ -157,7 +157,7 @@ const Contact = () => {
                   <FaGithub size={32} />
                 </a>
                 <a 
-                  href="https://www.linkedin.com/in/adorable-mariam/" 
+                  href="" 
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{ 
