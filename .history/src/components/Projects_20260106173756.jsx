@@ -53,7 +53,7 @@ const Projects = () => {
       tech: ['R', 'Geocoding', 'Data Visualization'],
       color: '#ffd000',
       features: ['Geospatial Analysis', 'Regional Mapping', 'Data Processing'],
-      github: '',
+      github: 'https://github.com/IamADORABLE/mtn-geocoding',
       liveDemo: '' // Add your live demo URL here
     },
     {
@@ -62,7 +62,7 @@ const Projects = () => {
       tech: ['LangChain', 'FAISS', 'HuggingFace', 'Streamlit', 'AI'],
       color: '#00ff9f',
       features: ['PDF Processing', 'Vector Search', 'AI Q&A', 'Interactive UI'],
-      github: '',
+      github: 'https://github.com/IamADORABLE/pdf-qa-system',
       liveDemo: '' // Add your live demo URL here
     },
     {
