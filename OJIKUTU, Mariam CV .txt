@@ -1,0 +1,128 @@
+      	 	         	                     OJIKUTU, Mariam 
+    	 	 	           Ikorodu, Lagos State, Nigeria 
+Email: ojikutuoyindamola14@gmail.com                                            Telephone: +234(0)9021668613 
+ 
+PROFESSIONAL PROFILE 
+Highly motivated Biochemistry graduate transitioning into data science, with hands-on experience in data 
+gathering and a growing skill set in Python, data analysis, and visualization. Passionate about turning data 
+into actionable insights and contributing to data-driven decision-making. Organized, detail-oriented, and 
+goalfocused, with a strong work ethic and the ability to meet targets within tight deadlines. Eager to leverage 
+scientific and analytical skills to support the growth of forward-thinking organizations. 
+KEY COMPETENCIES  
+?	Proficient in Microsoft Office Suites 
+?	Interpersonal and Communication Skills 
+?	Sound Oral and written communication 
+?	People Management Skills 
+?	Leadership Abilities 
+?	Health and Safety Management 
+?	Web Design, Data gathering and Data Science 
+?	Sport Coaching 
+?	Project Management 
+?	Teaching and Mentorship 
+?	Social Media and Email Communication 
+ 
+EDUCATION  
+2025|  Data Science and Generative AI Training Program 
+SAIL Innovation Lab 
+-  Engaged in an intensive, hands-on program covering Data Science, Machine Learning, and 
+Generative AI concepts.
+-  Learned and applied Python and R for data analysis, cleaning, visualization, and automation.
+-  Gained strong practical experience with Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn for 
+statistical and predictive modeling.
+-  Developed foundational to intermediate knowledge in Machine Learning algorithms, data 
+wrangling, and model evaluation using real-world datasets.
+-  Built multiple AI-powered projects integrating LangChain, FAISS, LLaMA, Whisper, and Streamlit 
+for document search, summarization, and intelligent Q&A systems.
+-  Designed and implemented interactive dashboards and prediction web apps using Streamlit and 
+FastAPI.
+-  Explored Generative AI applications such as chatbot development, lecture summarization, quiz 
+generation, and study assistant tools. 
+-  Collaborated on data visualization projects (e.g., inflation rate analysis, MTN Nigeria geocoding 
+project, and visa case prediction app).
+* Applied SQL and PostgreSQL for structured data storage, querying, and integration with machine 
+learning APIs.
+* Strengthened understanding of AI ethics, version control (Git/GitHub), and deployment tools like 
+Vercel and Render for production-ready apps.
+
+2023| Lagos State Polytechnic, Ikorodu, Lagos State, Nigeria   
+-	H.N.D in Biochemistry (Distinction) 
+        	 
+2020| Lagos State Polytechnic, Ikorodu, Lagos State, Nigeria   
+-	N.D in Science Laboratory Technology (Upper Credit) 	 	 
+  
+Other Certifications Obtained: 
+?	National Youth Service Corps Discharge Certificate    Jan 2025 
+?	Alpha Consulting Services, Lagos State  Feb 2025 
+-	Professional Certificate in Human Resource Management (HRM) 
+-	Certificate of Competence in Project Management Professional (PMP)  
+ 
+PROFESSIONAL EXPERIENCE 
+Freelance Data Gathering Assistant – Remote         April 2025 – JUNE 2025 
+?	Collect and verify data from various sources to ensure accuracy and completeness 
+?	Classify names and locations based on geopolitical zones in Nigeria 
+?	Work independently to meet deadlines and quality standards 
+?	Contribute to a broader data project supporting research or analysis 
+ 
+SOA Schools, Italuwo, Ogun State (Teacher) NYSC    March 2024 – Jan 2025    
+Major Accomplishments  
+?	Maintained classroom management conducive to development. 
+?	Adhered strictly to the laid down rules and regulations of the school management.  
+?	Co-planned with other teachers to design lesson plans that fits the students needs. 
+?	Participated in meetings to discuss learning plans with parents and guardians. 
+ 
+Sparklight Industries Limited, Ikorodu, Lagos (Intern)   Sept 2019 – Jan 2020 
+Major Accomplishments  
+?	Collaborated with cross-functional teams in the brewing / distilling process. 
+?	Gained hands on experience in raw material selection, fermentation and distillation. 
+?	Efficient report of all activities to the superior officer-in charge. 
+?	Assisted the superior officer assigned to on research and development. 
+ 
+LEADERSHIP POSITIONS HELD 
+?	Social Director of Students Chemical Society of Nigeria (SCSN Laspotech) 2022-2023 
+?	Welfare Director II, National Union of Lagos State Students (Laspotech Chapter)  2022-2023 
+?	Sports Director of National Union of Lagos State Students (Laspotech Chapter) 2019-2022 
+?	Sports Director of National Association of Science Technology Students  2019-2020 
+?	Justice in Lagos State Polytechnic Students Union Judiciary Council   2019-2020 
+ 
+AWARDS / ACHIEVEMENTS 
+?	Certificate of membership for Tuberculosis CDS Group, Ogijo LG, Ogun State (NYSC)   2025 
+?	Award of Honor as the Most Inspiring Personality and Most Innovative of Tuberculosis Community 
+Development Group, Ogijo LG, Ogun State (NYSC)  2025 
+?	Certificate of Honor as the Welfare Director II of National Union of Lagos State Students (Laspotech 
+Chapter) 2023 
+?	Award of Honor as most Influential in Students Chemical Society of Nigeria (Laspotech Chapter) 
+2023 
+?	Award of Excellence as the Social Director of Students Chemical Society of Nigeria (Laspotech 
+Chapter)   2023 
+?	Award of Honor as most social in Students Chemical Society of Nigeria (Laspotech)  2023 
+?	Award of Honor as the Sports Person (female) in Students Chemical Society of Nigeria (Laspotech 
+Chapter)  2023 
+?	Certificate of recognition as Justice in Lagos State Polytechnic Students Union Judiciary Council 
+2020 
+?	Award of Achievement as Sport Director of National Association of Science Technology Students 
+2020 
+?	Award of Excellence as the Sport Director of National Union of Lagos State Students (Laspotech 
+Chapter)  2020   
+ 
+   PROJECTS
+*	EduGenius Platform: Developed and deployed an AI education platform that performs quiz 
+generation, tutoring, summarization, explanations, study recommendations, feedback, and 
+progress monitoring, using React, FastAPI, python and JS.
+*	Visa Case Prediction App: Developed a FastAPI-based machine learning model with PostgreSQL 
+storage to predict visa case outcomes and visualize results.
+*	Inflation Rate Analysis: Conducted data cleaning and visualization of global inflation trends using 
+Python (Pandas, Matplotlib, Seaborn).
+*	MTN Nigeria Geocoding: Mapped and analyzed MTN Nigeria’s regional operations using R for 
+geocoding and spatial visualization.
+*	LangGraph PDF QA App: Built a PDF question-answering system with FAISS, HuggingFace 
+embeddings, and Streamlit for intelligent document search.
+
+ 
+PERSONAL DETAILS 
+Sex: Female 
+Marital Status: Single 
+ 
+Hobbies/Interests: Studying, Educative Dialogue, Sports, Leadership and Social Interaction. 
+ 
+REFERENCE 
+Available on Request 

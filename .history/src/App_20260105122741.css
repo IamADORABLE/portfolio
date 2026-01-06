@@ -1,0 +1,93 @@
+/* Additional responsive styles */
+@media (max-width: 1024px) {
+  .grid-2, .grid-3 {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+
+  section {
+    padding: 60px 20px;
+  }
+
+  /* About section grid */
+  #about > .container > div {
+    grid-template-columns: 1fr !important;
+  }
+
+  #about > .container > div > div:first-child {
+    height: 300px;
+  }
+
+  /* Contact section grid */
+  #contact > .container > div {
+    grid-template-columns: 1fr !important;
+  }
+
+  .card {
+    padding: 20px;
+  }
+
+  .btn {
+    padding: 12px 30px;
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.7rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+  }
+
+  .grid-2, .grid-3 {
+    grid-template-columns: 1fr;
+  }
+
+  .btn {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+/* Smooth transitions */
+* {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Loading animation */
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.loading {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
