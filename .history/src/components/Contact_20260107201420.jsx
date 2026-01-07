@@ -89,6 +89,16 @@ const Contact = () => {
         <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '50px', alignItems: 'start' }}>
           {/* Contact Info & 3D Visual */}
           <div>
+            {/* 3D Visual */}
+            <div style={{ height: '200px', marginBottom: '30px' }}>
+              <Canvas camera={{ position: [0, 0, 3] }}>
+                <ambientLight intensity={0.5} />
+                <pointLight position={[10, 10, 10]} />
+                <AnimatedTorus />
+                <OrbitControls enableZoom={false} autoRotate />
+              </Canvas>
+            </div>
+
             {/* Contact Information */}
             <div className="card" style={{ marginBottom: '20px' }}>
               <h3 style={{ color: '#00d9ff', marginBottom: '20px' }}>Contact Information</h3>

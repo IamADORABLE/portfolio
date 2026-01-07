@@ -89,6 +89,7 @@ const Hero = () => {
       {/* Hero Content */}
       <div className="container" style={{ position: 'relative', zIndex: 10 }}>
         <div className="fade-in-up">
+    
           <h1 style={{ 
             color: '#ff006e',
             background: 'none',

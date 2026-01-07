@@ -107,15 +107,6 @@
   .card {
     padding: 15px;
   }
-
-  /* About section for mobile */
-  #about > .container > div:first-of-type > div:first-child {
-    max-width: 250px;
-  }
-
-  #about h3 {
-    font-size: 1.5rem !important;
-  }
 }
 
 /* Smooth transitions */
