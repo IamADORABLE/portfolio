@@ -110,6 +110,9 @@ const Hero = () => {
             <a href="#contact" className="btn" style={{ borderColor: '#ff006e', color: '#ff006e' }}>
               Get In Touch
             </a>
+            <a href="/Mariam-Ojikutu-CV.docx" download className="btn" style={{ borderColor: '#8338ec', color: '#8338ec' }}>
+              Download Resume
+            </a>
           </div>
         </div>
       </div>

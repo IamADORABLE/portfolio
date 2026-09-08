@@ -27,7 +27,34 @@ const Projects = () => {
       features: ['Quiz Generation', 'AI Tutoring', 'Summarization', 'Progress Tracking'],
       github: 'https://github.com/IamADORABLE/edugenius',
       liveDemo: 'https://edu-genius-djq9.vercel.app/',
-      image: '/images/edugenius.png' 
+      image: '/images/edugenius.png'
+    },
+    {
+      title: 'Personal Birthday Microsite',
+      description: 'An animated, interactive birthday website built as a gift for a friend, showcasing frontend and UI/UX skills outside of data work.',
+      tech: ['React', 'Framer Motion', 'CSS Animations', 'Vercel'],
+      color: '#ffb703',
+      features: ['Scroll Animations', 'Interactive Memory Game', 'Custom Micro-interactions', 'Responsive Design'],
+      github: '',
+      liveDemo: 'https://aisha-roan.vercel.app/'
+    },
+    {
+      title: 'Raza Gears & Wears',
+      description: 'Brand shopping website for a gears and apparel retailer. Details to be added.',
+      tech: ['React', 'Python', 'FastAPI', 'PostgreSQL', 'AI/ML'],
+      color: '#06d6a0',
+      features: [],
+      github: '',
+      liveDemo: ''
+    },
+    {
+      title: 'Wakaless',
+      description: 'A house-hunting web app to help users search and discover rental listings. Details to be added.',
+      tech: ['React', 'Python', 'FastAPI', 'PostgreSQL'],
+      color: '#3a86ff',
+      features: [],
+      github: '',
+      liveDemo: ''
     },
     {
       title: 'Visa Case Prediction App',
@@ -152,26 +179,39 @@ const Projects = () => {
               </div>
 
               {/* Features */}
-              <div>
-                <p style={{ fontSize: '0.9rem', marginBottom: '10px', opacity: '0.8' }}>
-                  Key Features:
-                </p>
-                <ul style={{ 
-                  listStyle: 'none', 
-                  padding: 0,
-                  display: 'grid',
-                  gridTemplateColumns: 'repeat(2, 1fr)',
-                  gap: '8px'
-                }}>
-                  {project.features.map((feature, i) => (
-                    <li key={i} style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
-                      ✓ {feature}
-                    </li>
-                  ))}
-                </ul>
-              </div>
+              {project.features.length > 0 && (
+                <div>
+                  <p style={{ fontSize: '0.9rem', marginBottom: '10px', opacity: '0.8' }}>
+                    Key Features:
+                  </p>
+                  <ul style={{
+                    listStyle: 'none',
+                    padding: 0,
+                    display: 'grid',
+                    gridTemplateColumns: 'repeat(2, 1fr)',
+                    gap: '8px'
+                  }}>
+                    {project.features.map((feature, i) => (
+                      <li key={i} style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
+                        ✓ {feature}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
 
-              <div style={{ marginTop: '20px', display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+              <div style={{ marginTop: '20px', display: 'flex', gap: '10px', flexWrap: 'wrap', alignItems: 'center' }}>
+                {!project.github && !project.liveDemo && (
+                  <span style={{
+                    padding: '10px 20px',
+                    fontSize: '0.9rem',
+                    color: 'var(--text-secondary)',
+                    border: '1px dashed rgba(255,255,255,0.25)',
+                    borderRadius: '50px'
+                  }}>
+                    🚧 Code in progress
+                  </span>
+                )}
                 {project.github && (
                   <a 
                     href={project.github}
